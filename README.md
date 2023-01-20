@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm 𝗛𝗮𝗹𝗲</h1>
 <h3 align="center">A Java Developer from Turkey</h3>
 <!-- This is a comment --<img align="right" width="300" src="https://www.gifmaniacos.es/wp-content/uploads/2021/03/gifmaniacos.es-2-3.gif"></p> -->
-<img align="right" width="300" src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif">
+<img align="right" width="300"  src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halegurpinar&label=Profile%20views&color=0e75b6&style=flat" alt="halegurpinar" /></p>
 

@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm 𝗛𝗮𝗹𝗲</h1><h3 align="center">A Java Software Engineer from Turkey</h3>
 <img align="right" alt="Coding" width="300" src="https://www.gifmaniacos.es/wp-content/uploads/2021/03/gifmaniacos.es-2-3.gif">
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=halegurpinar&label=Profile%20views&color=0e75b6&style=flat" alt="halegurpinar" /> </p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halegurpinar" alt="halegurpinar" /></a> </p>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=halegurpinar&label=Profile%20views&color=0e75b6&style=flat" alt="halegurpinar" /> </p><img src="https://github-profile-trophy.vercel.app/?username=halegurpinar" alt="halegurpinar" /></a> </p>
 
 - 🌱 I’m currently learning Spring, Hibernate, Python
 

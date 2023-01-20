@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm 𝗛𝗮𝗹𝗲</h1><h3 align="center">A Java Developer from Turkey</h3>
 
-<img align="right" alt="Coding" width="300" src="https://www.gifmaniacos.es/wp-content/uploads/2021/03/gifmaniacos.es-2-3.gif">
+<p style="text-align:center;"><img width="300" src="https://www.gifmaniacos.es/wp-content/uploads/2021/03/gifmaniacos.es-2-3.gif"></p>
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=halegurpinar&label=Profile%20views&color=0e75b6&style=flat" alt="halegurpinar" />
 

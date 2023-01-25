@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm 𝗛𝗮𝗹𝗲</h1>
-<h3 align="center">A Java Developer from Turkey</h3>
+<h3 align="center">A Software Engineer from Turkey</h3>
 <!-- This is a comment --<img align="right" width="300" src="https://www.gifmaniacos.es/wp-content/uploads/2021/03/gifmaniacos.es-2-3.gif"></p> -->
 
 

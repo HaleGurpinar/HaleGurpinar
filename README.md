@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halegurpinar&label=Profile%20views&color=0e75b6&style=flat" alt="halegurpinar" /></p>
 
-- 👩‍💻 Experienced in development Java projects. 
+- 👩‍💻 Experienced in development of Java projects. 
 
 - 💻 I’m currently learning Spring, Hibernate, Python as a LIFELONG LEARNER 😊
 

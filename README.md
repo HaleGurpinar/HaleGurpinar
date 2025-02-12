@@ -10,7 +10,7 @@
 
 - 👩‍💻 Experienced in development of Java projects. 
 
-- 💻 I’m currently learning Spring, Hibernate. 
+- 💻 I’m currently learning Data Science. 
 
 - 📊 Interested in Python, Data Science, Business Intelligence projects as a LIFELONG LEARNER 😊.
 
